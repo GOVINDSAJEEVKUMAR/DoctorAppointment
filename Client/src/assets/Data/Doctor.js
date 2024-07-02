@@ -1,0 +1,32 @@
+export const doctors = [
+    {
+      id: "01",
+      name: "Dr. Alfaz Ahmed",
+      specialization: "Surgeon",
+      avgRating: 4.8,
+      totalRating: 272,
+      photo: "https://i.pinimg.com/564x/3e/96/55/3e965511a91dd46dec3dca37ee41998f.jpg",
+      totalPatients: 1500,
+      hospital: "Mount Adora Hospital, Sylhet.",
+    },
+    {
+      id: "02",
+      name: "Dr. Saleh Mahmud",
+      specialization: "Neurologist",
+      avgRating: 4.8,
+      totalRating: 272,
+      photo: "https://i.pinimg.com/564x/09/b7/84/09b784f0da470f9593a1654f808036b6.jpg",
+      totalPatients: 1500,
+      hospital: "Mount Adora Hospital, Sylhet.",
+    },
+    {
+      id: "03",
+      name: "Dr. Farid Uddin",
+      specialization: "Dermatologist",
+      avgRating: 4.8,
+      totalRating: 272,
+      photo: "https://i.pinimg.com/564x/10/7e/fc/107efc04df4cdfdd41c489dd543b4b98.jpg",
+      totalPatients: 1500,
+      hospital: "Mount Adora Hospital, Sylhet.",
+    },
+  ];
